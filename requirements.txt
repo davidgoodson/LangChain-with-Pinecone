@@ -1,0 +1,15 @@
+langchain_openai
+langchain_core
+langchain_community
+langserve
+python-dotenv
+streamlit
+pinecone-client
+pinecone
+fastapi
+unicorn
+sse_starlette
+pypdf
+chromadb
+bs4
+unstructured
