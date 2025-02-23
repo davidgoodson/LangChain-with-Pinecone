@@ -13,3 +13,5 @@ pypdf
 chromadb
 bs4
 unstructured
+langchain-ollama
+langchain_pinecone
